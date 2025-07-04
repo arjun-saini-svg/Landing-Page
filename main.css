@@ -4,10 +4,11 @@
     border: 0;
 
     box-sizing: border-box;
+
+    font-family: roboto, sans-serif;
 }
 
 .wh-container{
-    font-family: roboto;
     background-color: #1F2937;
 }
 
