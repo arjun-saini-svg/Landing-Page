@@ -64,7 +64,7 @@
     color: white
 }
 
-button{
+.button{
     font-size: 20px;
     color: white;
     background-color: #3882F6;
@@ -125,4 +125,44 @@ button{
     font: 900 20px roboto;
     display: flex;
     justify-content: end;
+}
+
+/* .contentThree{
+       padding: 0 360px;
+} */
+
+.contentThreeFlex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 200px;
+    background-color: #3882F6;
+    margin: 100px 200px;
+    padding: 0 150px;
+    border-radius: 15px;
+}
+
+#pone{
+    font: 900 20px roboto;
+    color: white;
+    margin: 0;
+}
+
+#ptwo{
+    font: 10px roboto;
+    color: #F9FAF8;
+    margin-top: -10px;
+}
+
+
+.cThreebutton{
+        font-size: 20px;
+    color: white;
+    background-color: #3882F6;
+    padding: 10px 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: white;
+    margin: 0;
 }
