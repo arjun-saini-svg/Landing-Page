@@ -108,3 +108,21 @@ button{
     min-height: 150px;
     text-align: center;
 }
+
+.contentTwo{
+        background-color: #E5E7EB;
+        padding: 100px 360px;
+}
+
+.cTwopara{
+    font: italic 300 36px roboto;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+.cTwotext{
+    font: 900 20px roboto;
+    display: flex;
+    justify-content: end;
+}
